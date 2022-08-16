@@ -1,7 +1,6 @@
 # 1-HTML
 Neste repositorio é aplicado o 1° passo de Html, utilizando o VScode.
 
-
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
